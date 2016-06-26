@@ -24,6 +24,12 @@ npm run watch
 More Reading
 ------------
 
+**Browser Adoption**
+https://kangax.github.io/compat-table/es6/
+
+**Classes**
+http://javascriptplayground.com/blog/2014/07/introduction-to-es6-classes-tutorial/
+
 **Decorators**
 http://blog.developsuperpowers.com/eli5-ecmascript-7-decorators/
 https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841#.fuoba7ly2

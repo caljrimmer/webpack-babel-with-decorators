@@ -52,3 +52,22 @@ export class CellPhone {
         return 'steam power';
     }
 }
+
+/*****
+* DEMO
+******
+******
+
+    import { PhoneBox, CellPhone } from './decorators';
+
+    window.phoneBox = new decorators.PhoneBox();
+    console.log(phoneBox.cost)
+    console.log(phoneBox.ring())
+
+    window.cellPhone = new decorators.CellPhone();
+    console.log(phoneBox.cost)
+    console.log(phoneBox._internal)
+    phoneBox._internal = () => 'changed';
+    console.log(phoneBox._internal)
+    
+*/
