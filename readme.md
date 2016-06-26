@@ -27,8 +27,13 @@ More Reading
 **Browser Adoption**
 https://kangax.github.io/compat-table/es6/
 
+**Spread**
+https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Spread_operator
+https://ponyfoo.com/articles/es6-spread-and-butter-in-depth
+
 **Classes**
 http://javascriptplayground.com/blog/2014/07/introduction-to-es6-classes-tutorial/
+https://www.sitepoint.com/object-oriented-javascript-deep-dive-es6-classes/
 
 **Decorators**
 http://blog.developsuperpowers.com/eli5-ecmascript-7-decorators/
