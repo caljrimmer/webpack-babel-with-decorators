@@ -1,6 +1,6 @@
 export const greeting = 'hello';
 export const sendOff = 'cya';
-export const greet = function (name) {
+export function greet (name) {
 	return greeting + ' ' + name;
 };
 
